@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajkharelmadan" target="blank"><img src="https://img.shields.io/twitter/follow/rajkharelmadan?logo=twitter&style=for-the-badge" alt="rajkharelmadan" /></a> </p>
 
-- 🔭 I’m currently working on **STUDY NOTES APP**
+- 🔭 I’m currently working on **RECALL MEETING BOT**
 
 - 🌱 I’m currently learning **Spring Boot**
 
